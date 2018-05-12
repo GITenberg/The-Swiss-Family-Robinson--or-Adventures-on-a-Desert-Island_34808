@@ -1,0 +1,50 @@
+_repo: The-Swiss-Family-Robinson--or-Adventures-on-a-Desert-Island_34808
+_version: 0.1.0
+contributor:
+  dubious_author:
+    agent_name: Wyss, Johann Rudolf
+    alias: Wyss, Jean Rudolph
+    birthdate: 1782
+    deathdate: 1830
+    gutenberg_agent_id: '41285'
+    url: http://www.gutenberg.org/2009/agents/41285
+  illustrator:
+    agent_name: Winter, Milo
+    alias: Winter, Milo Kendall
+    birthdate: 1888
+    deathdate: 1956
+    gutenberg_agent_id: '8180'
+    url: http://www.gutenberg.org/2009/agents/8180
+    wikipedia: http://en.wikipedia.org/wiki/Milo_Winter
+covers:
+- cover_type: archival
+  image_path: 34808-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wyss, Johann David
+    alias: Wyss, J. D. (Johann David)
+    birthdate: 1743
+    deathdate: 1818
+    gutenberg_agent_id: '1327'
+    url: http://www.gutenberg.org/2009/agents/1327
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Johann_David_Wyss
+    - http://fr.wikipedia.org/wiki/Johann_David_Wyss
+description: Jean Rudolph Wyss is credited as author on title page of this edition,
+  but his father Johann David Wyss is more commonly listed as author. http://en.wikipedia.org/wiki/The_Swiss_Family_Robinson
+gutenberg_issued: '2011-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34808'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Islands -- Fiction'
+- !lcsh 'Survival -- Fiction'
+- !lcc 'PZ'
+- !lcc 'PT'
+- !lcsh 'Family life -- Fiction'
+title: The Swiss Family Robinson; or, Adventures on a Desert Island
+url: http://www.gutenberg.org/ebooks/34808
